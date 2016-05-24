@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://32189091.mom/"/>
-  <updated>2016-05-24T05:16:46.662Z</updated>
+  <updated>2016-05-24T05:19:26.627Z</updated>
   <id>http://32189091.mom/</id>
   
   <author>
@@ -17,12 +17,12 @@
   
   <entry>
     <title>权御天下demo!</title>
-    <link href="http://32189091.mom/2016/05/24/quanyutianxia/"/>
-    <id>http://32189091.mom/2016/05/24/quanyutianxia/</id>
-    <published>2016-05-24T05:03:53.000Z</published>
-    <updated>2016-05-24T05:16:46.662Z</updated>
+    <link href="http://32189091.mom/2016/05/24/qytx/"/>
+    <id>http://32189091.mom/2016/05/24/qytx/</id>
+    <published>2016-05-24T05:18:07.000Z</published>
+    <updated>2016-05-24T05:19:26.627Z</updated>
     
-    <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;div id=&quot;aplayer0&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var aplayer0 = new APlayer({element: document.getElementById(&quot;aplayer0&quot;),narrow: false,autoplay: false,showlrc: false,music : {title: &quot;权御天下demo!&quot;,author: &quot;肥皂菌丨珉珉的猫咪丨&quot;,url: &quot;http://m2.music.126.net/F8PxXEKNci4Xax5-FkcQ9Q==/1368891987505992.mp3&quot;,pic: &quot;/images/qytx.jpg&quot;}});aplayer0.init();&lt;/script&gt;
+    <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;div id=&quot;aplayer1&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var aplayer1 = new APlayer({element: document.getElementById(&quot;aplayer1&quot;),narrow: false,autoplay: false,showlrc: false,music : {title: &quot;权御天下demo!&quot;,author: &quot;肥皂菌丨珉珉的猫咪丨&quot;,url: &quot;http://m2.music.126.net/F8PxXEKNci4Xax5-FkcQ9Q==/1368891987505992.mp3&quot;,pic: &quot;/images/qytx.jpg&quot;}});aplayer1.init();&lt;/script&gt;
 &lt;p&gt;歌词：&lt;/p&gt;
 &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;东汉末 狼烟不休&lt;/p&gt;
 &lt;p&gt;常侍乱 朝野陷 阿瞒挟天子 令诸侯&lt;/p&gt;
@@ -94,7 +94,7 @@
     
     <summary type="html">
     
-      &lt;div id=&quot;aplayer0&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var aplayer0 = new APlayer({element: document.getElementById(&quot;aplayer0&quot;),narrow: false,autoplay: false,showlrc: false,music : {title: &quot;权御天下demo!&quot;,author: &quot;肥皂菌丨珉珉的猫咪丨&quot;,url: &quot;http://m2.music.126.net/F8PxXEKNci4Xax5-FkcQ9Q==/1368891987505992.mp3&quot;,pic: &quot;/images/qytx.jpg&quot;}});aplayer0.init();&lt;/script&gt;
+      &lt;div id=&quot;aplayer1&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var aplayer1 = new APlayer({element: document.getElementById(&quot;aplayer1&quot;),narrow: false,autoplay: false,showlrc: false,music : {title: &quot;权御天下demo!&quot;,author: &quot;肥皂菌丨珉珉的猫咪丨&quot;,url: &quot;http://m2.music.126.net/F8PxXEKNci4Xax5-FkcQ9Q==/1368891987505992.mp3&quot;,pic: &quot;/images/qytx.jpg&quot;}});aplayer1.init();&lt;/script&gt;
 &lt;p&gt;歌词：&lt;/p&gt;
 &lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
     
