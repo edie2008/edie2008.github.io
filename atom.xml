@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://32189091.mom/"/>
-  <updated>2016-05-24T05:23:23.166Z</updated>
+  <updated>2016-05-22T15:41:51.022Z</updated>
   <id>http://32189091.mom/</id>
   
   <author>
@@ -14,98 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>权御天下demo!</title>
-    <link href="http://32189091.mom/2016/05/24/qytx/"/>
-    <id>http://32189091.mom/2016/05/24/qytx/</id>
-    <published>2016-05-24T05:18:07.000Z</published>
-    <updated>2016-05-24T05:23:23.166Z</updated>
-    
-    <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;div id=&quot;aplayer0&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var aplayer0 = new APlayer({element: document.getElementById(&quot;aplayer0&quot;),narrow: false,autoplay: false,showlrc: false,music : {title: &quot;权御天下demo!&quot;,author: &quot;肥皂菌丨珉珉的猫咪丨&quot;,url: &quot;http://m2.music.126.net/F8PxXEKNci4Xax5-FkcQ9Q==/1368891987505992.mp3&quot;,pic: &quot;/images/qytx.jpg&quot;}});aplayer0.init();&lt;/script&gt;
-&lt;p&gt;歌词：&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;东汉末 狼烟不休&lt;/p&gt;
-&lt;p&gt;常侍乱 朝野陷 阿瞒挟天子 令诸侯&lt;/p&gt;
-&lt;p&gt;踞江东 志在九州&lt;/p&gt;
-&lt;p&gt;继祖业 承父兄 既冕主吴越 万兜鍪&lt;/p&gt;
-&lt;p&gt;纵天下 几变春秋&lt;/p&gt;
-&lt;p&gt;稳东南 面中原 水师锁长江 抗曹刘&lt;/p&gt;
-&lt;p&gt;镇赤壁 雄风赳赳&lt;/p&gt;
-&lt;p&gt;夺荆楚 抚山越 驱金戈铁马 灭仇雠&lt;/p&gt;
-&lt;p&gt;紫发髯 碧色眼眸&lt;/p&gt;
-&lt;p&gt;射猛虎 倚黄龙 胆识过凡人 谁敌手&lt;/p&gt;
-&lt;p&gt;御天下 半百之久&lt;/p&gt;
-&lt;p&gt;选贤臣 任能将 覆江东云雨 尽风流&lt;/p&gt;
-&lt;p&gt;千秋过 再难回首&lt;/p&gt;
-&lt;p&gt;问古今 兴亡事 几人耀青史 芳名留&lt;/p&gt;
-&lt;p&gt;笑谈间 云烟已旧&lt;/p&gt;
-&lt;p&gt;终留下 万古叹 生子该当如 孙仲谋&lt;/p&gt;
-&lt;p&gt;运帷幄 英雄几拂袖&lt;/p&gt;
-&lt;p&gt;阴谋 阳谋 明仇 暗斗&lt;/p&gt;
-&lt;p&gt;化作一江浊浪东流&lt;/p&gt;
-&lt;p&gt;君不见 军赤壁 纵野火 铁锁连环&lt;/p&gt;
-&lt;p&gt;也不见 御北敌 联西蜀 长江上鏖战&lt;/p&gt;
-&lt;p&gt;继遗志 领江东 屹立于 神州东南&lt;/p&gt;
-&lt;p&gt;尽心力 洒英血 展伟业 剑气指苍天&lt;/p&gt;
-&lt;p&gt;军帐内 公瑾智 张昭谋 奇策频献&lt;/p&gt;
-&lt;p&gt;沙场上 太史勇 甘宁霸 一骑当十千&lt;/p&gt;
-&lt;p&gt;纵使有 千万种 寂寞和 孤单相伴&lt;/p&gt;
-&lt;p&gt;既受终 冠帝冕 龙椅上 成败也笑看&lt;/p&gt;
-&lt;p&gt;铁瓮城 难攻易守&lt;/p&gt;
-&lt;p&gt;旌旗立 苍空蔽 逾百千雄师 万蒙舟&lt;/p&gt;
-&lt;p&gt;善制衡 眼光独秀&lt;/p&gt;
-&lt;p&gt;擢鲁肃 劝阿蒙 聚贤成霸业 名利收&lt;/p&gt;
-&lt;p&gt;固疆土 施德恩厚&lt;/p&gt;
-&lt;p&gt;军心定 百姓安 富国又强兵 重耕耨&lt;/p&gt;
-&lt;p&gt;交远好 未雨绸缪&lt;/p&gt;
-&lt;p&gt;联南洋 合林邑 行军远渡海 驻夷洲&lt;/p&gt;
-&lt;p&gt;残垣下 枯木凋朽&lt;/p&gt;
-&lt;p&gt;想当年 麦城边 截兵缚关羽 终其寿&lt;/p&gt;
-&lt;p&gt;凭栏倚 横看吴钩&lt;/p&gt;
-&lt;p&gt;叹乱世 几时了 天下归一统 没其咎&lt;/p&gt;
-&lt;p&gt;称帝王 壮心仍稠&lt;/p&gt;
-&lt;p&gt;却无奈 自孤傲 同室亦操戈 子嗣斗&lt;/p&gt;
-&lt;p&gt;千年后 恚恨徒留&lt;/p&gt;
-&lt;p&gt;再何寻 军帐里 将士聚欢饮 赏箜篌&lt;/p&gt;
-&lt;p&gt;运帷幄 英雄几拂袖&lt;/p&gt;
-&lt;p&gt;阴谋 阳谋 明仇 暗斗&lt;/p&gt;
-&lt;p&gt;化作一江浊浪东流&lt;/p&gt;
-&lt;p&gt;君不见 吕子明 踏轻舟 白衣渡川&lt;/p&gt;
-&lt;p&gt;也不见 陆伯言 烧连营 火光上冲天&lt;/p&gt;
-&lt;p&gt;善制衡 选贤臣 任能将 共谋江山&lt;/p&gt;
-&lt;p&gt;听忠言 摒逆语 树威严 宝剑斫书案&lt;/p&gt;
-&lt;p&gt;夺荆州 抗刘备 合曹操 共克襄樊&lt;/p&gt;
-&lt;p&gt;守夷陵 任陆逊 剿敌军 火计破蜀胆&lt;/p&gt;
-&lt;p&gt;固江河 成帝业 立国家 终归于乱&lt;/p&gt;
-&lt;p&gt;光阴逝 千载过 功成者 都付笑谈间&lt;/p&gt;
-&lt;p&gt;君不见 军赤壁 纵野火 铁锁连环&lt;/p&gt;
-&lt;p&gt;也不见 御北敌 联西蜀 长江上鏖战&lt;/p&gt;
-&lt;p&gt;继遗志 领江东 屹立于 神州东南&lt;/p&gt;
-&lt;p&gt;尽心力 洒英血 展伟业 剑气指苍天&lt;/p&gt;
-&lt;p&gt;君不见 吕子明 踏轻舟 白衣渡川&lt;/p&gt;
-&lt;p&gt;也不见 陆伯言 烧连营 火光上冲天&lt;/p&gt;
-&lt;p&gt;善制衡 选贤臣 任能将 共谋江山&lt;/p&gt;
-&lt;p&gt;听忠言 摒逆语 树威严 宝剑斫书案&lt;/p&gt;
-&lt;p&gt;纵使有 千万种 寂寞和 孤单相伴&lt;/p&gt;
-&lt;p&gt;既受终 冠帝冕 龙椅上 成败也笑看&lt;/p&gt;
-&lt;p&gt;固江河 成帝业 立国家 终归于乱&lt;/p&gt;
-&lt;p&gt;光阴逝 千载过 功成者 都付笑谈间&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;div id=&quot;aplayer0&quot; class=&quot;aplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var aplayer0 = new APlayer({element: document.getElementById(&quot;aplayer0&quot;),narrow: false,autoplay: false,showlrc: false,music : {title: &quot;权御天下demo!&quot;,author: &quot;肥皂菌丨珉珉的猫咪丨&quot;,url: &quot;http://m2.music.126.net/F8PxXEKNci4Xax5-FkcQ9Q==/1368891987505992.mp3&quot;,pic: &quot;/images/qytx.jpg&quot;}});aplayer0.init();&lt;/script&gt;
-&lt;p&gt;歌词：&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
-    
-    </summary>
-    
-      <category term="音乐" scheme="http://32189091.mom/categories/%E9%9F%B3%E4%B9%90/"/>
-    
-    
-      <category term="肥皂菌" scheme="http://32189091.mom/tags/%E8%82%A5%E7%9A%82%E8%8F%8C/"/>
-    
-  </entry>
   
   <entry>
     <title>常用代码</title>
