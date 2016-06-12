@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://32189091.mom/"/>
-  <updated>2016-06-08T07:26:41.375Z</updated>
+  <updated>2016-06-12T06:48:14.816Z</updated>
   <id>http://32189091.mom/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>odhuibian</title>
+    <link href="http://32189091.mom/2016/06/12/odhuibian/"/>
+    <id>http://32189091.mom/2016/06/12/odhuibian/</id>
+    <published>2016-06-12T06:47:41.000Z</published>
+    <updated>2016-06-12T06:48:14.816Z</updated>
+    
+    <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;关于寄存器:&lt;/p&gt;
+&lt;p&gt;EAX: 扩展累加寄存器&lt;br&gt;EBX: 扩展基址寄存器&lt;br&gt;ECX: 扩展计数寄存器&lt;br&gt;EDX: 扩展数据寄存器&lt;br&gt;ESI: 扩展来源寄存器&lt;br&gt;EDI: 扩展目标寄存器&lt;br&gt;EBP: 扩展基址指针寄存器&lt;br&gt;ESP: 扩展堆栈指针寄存器&lt;br&gt;EIP: 扩展指令指针寄存器&lt;/p&gt;
+&lt;p&gt;关于mov,add,sub指令:&lt;/p&gt;
+&lt;p&gt;add   寄存器，数据          比如：add ax,8&lt;br&gt;add   寄存器，寄存器        比如: add ax,bx&lt;br&gt;add   寄存器，内存单元      比如: add ax,[0]&lt;br&gt;add   内存单元，寄存器      比如: add [0],ax&lt;/p&gt;
+&lt;p&gt;sub   寄存器，数据          比如：sub ax,8&lt;br&gt;sub   寄存器，寄存器        比如: sub ax,bx&lt;br&gt;sub   寄存器，内存单元      比如: sub ax,[0]&lt;br&gt;sub   内存单元，寄存器      比如: sub [0],ax&lt;/p&gt;
+&lt;p&gt;mov指令格式:mov dest,src   将src的内容拷贝到dest&lt;/p&gt;
+&lt;p&gt;关于CALL指令:&lt;br&gt;call XXX    等于pish eip    然后   jmp XXX&lt;/p&gt;
+&lt;p&gt;CALL有以下几种形式:&lt;/p&gt;
+&lt;p&gt;call 404000H  直接跳转过程或者函数地址&lt;br&gt;call eax      函数或过程存放在exa&lt;br&gt;call dword ptr[eax]&lt;br&gt;call dword ptr[eax+5]&lt;br&gt;call dword ptr[&amp;amp;&lt;api&gt;] 执行一个系统API      &lt;/api&gt;&lt;/p&gt;
+&lt;p&gt;关于栈:&lt;br&gt;push  入栈    push ax:将寄存器ax中的数据送入栈&lt;br&gt;pop   出栈    pop  ax：从栈项取出数据送入ax&lt;/p&gt;
+&lt;p&gt;VB破解关键:&lt;/p&gt;
+&lt;p&gt;针对变量：                   针对字符串:&lt;br&gt;_vbaVarCompEP  (主要)        _vbaStrCmp   (主要)&lt;br&gt;_vbaVarCompLe                _vbaStrComp&lt;br&gt;_vbaVarCompLt                _vbaStrCompVar&lt;br&gt;_vbaVarCompGe                _vbaStrLike&lt;br&gt;_vbaVarCompGt                _vbaStrTextComp&lt;br&gt;_vbaVarCompNe                _vbaStrTexLike&lt;br&gt;_vbaVarTstEp  (主要)&lt;br&gt;_vbaVarTstNe&lt;/p&gt;
+&lt;p&gt;程序通常用于取文本框内容字符串用的是以下函数:&lt;br&gt;GetDlgItemTextA或(GetDlgItemTextW)&lt;br&gt;GetWindowTextA或(GetWindowTextW)&lt;/p&gt;
+&lt;p&gt;DialogBoxParamA&lt;br&gt;GetDlgItem&lt;br&gt;GetDlgItemInt&lt;br&gt;GetWindowLong&lt;/p&gt;
+&lt;p&gt;OD快捷键:&lt;br&gt;F2:         下断点&lt;br&gt;F3:         加载一个可执行程序,进行调试分析&lt;br&gt;F4:         程序执行到光标处&lt;br&gt;F5:         缩小,还原当前窗口&lt;br&gt;F7:         单步步入&lt;br&gt;F8:         单步步过&lt;br&gt;F9:         直接运行程序,遇到断点处,程序暂停&lt;br&gt;ctrl+F2:    重新运行程序到起始处,一般用于重新调试程序&lt;br&gt;ctrl+F9:    执行到函数返回处,用于跳出函数实现&lt;br&gt; Ait+F2:    执行到用户代码处,用于快速跳出系统函数&lt;br&gt; ctrl+G:    输入十六进制地址,快速定位到该地址&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;关于寄存器:&lt;/p&gt;
+&lt;p
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2016年6月8日</title>

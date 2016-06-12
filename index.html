@@ -265,6 +265,130 @@
             
               
                 
+                <a class="post-title-link" href="/2016/06/12/odhuibian/" itemprop="url">
+                  odhuibian
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-06-12T14:47:41+08:00" content="2016-06-12">
+              2016-06-12
+            </time>
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/06/12/odhuibian/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/06/12/odhuibian/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+             <span id="/2016/06/12/odhuibian/" class="leancloud_visitors" data-flag-title="odhuibian">
+               &nbsp; | &nbsp;
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               <span class="post-meta-item-text">阅读次数 </span>
+               <span class="leancloud-visitors-count"></span>
+              </span>
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <link rel="stylesheet" type="text/css" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js"> </script><p>关于寄存器:</p>
+<p>EAX: 扩展累加寄存器<br>EBX: 扩展基址寄存器<br>ECX: 扩展计数寄存器<br>EDX: 扩展数据寄存器<br>ESI: 扩展来源寄存器<br>EDI: 扩展目标寄存器<br>EBP: 扩展基址指针寄存器<br>ESP: 扩展堆栈指针寄存器<br>EIP: 扩展指令指针寄存器</p>
+<p>关于mov,add,sub指令:</p>
+<p>add   寄存器，数据          比如：add ax,8<br>add   寄存器，寄存器        比如: add ax,bx<br>add   寄存器，内存单元      比如: add ax,[0]<br>add   内存单元，寄存器      比如: add [0],ax</p>
+<p>sub   寄存器，数据          比如：sub ax,8<br>sub   寄存器，寄存器        比如: sub ax,bx<br>sub   寄存器，内存单元      比如: sub ax,[0]<br>sub   内存单元，寄存器      比如: sub [0],ax</p>
+<p>mov指令格式:mov dest,src   将src的内容拷贝到dest</p>
+<p>关于CALL指令:<br>call XXX    等于pish eip    然后   jmp XXX</p>
+<p>CALL有以下几种形式:</p>
+<p>call 404000H  直接跳转过程或者函数地址<br>call eax      函数或过程存放在exa<br>call dword ptr[eax]<br>call dword ptr[eax+5]<br>call dword ptr[&amp;<api>] 执行一个系统API      </api></p>
+<p>关于栈:<br>push  入栈    push ax:将寄存器ax中的数据送入栈<br>pop   出栈    pop  ax：从栈项取出数据送入ax</p>
+<p>VB破解关键:</p>
+<p>针对变量：                   针对字符串:<br>_vbaVarCompEP  (主要)        _vbaStrCmp   (主要)<br>_vbaVarCompLe                _vbaStrComp<br>_vbaVarCompLt                _vbaStrCompVar<br>_vbaVarCompGe                _vbaStrLike<br>_vbaVarCompGt                _vbaStrTextComp<br>_vbaVarCompNe                _vbaStrTexLike<br>_vbaVarTstEp  (主要)<br>_vbaVarTstNe</p>
+<p>程序通常用于取文本框内容字符串用的是以下函数:<br>GetDlgItemTextA或(GetDlgItemTextW)<br>GetWindowTextA或(GetWindowTextW)</p>
+<p>DialogBoxParamA<br>GetDlgItem<br>GetDlgItemInt<br>GetWindowLong</p>
+<p>OD快捷键:<br>F2:         下断点<br>F3:         加载一个可执行程序,进行调试分析<br>F4:         程序执行到光标处<br>F5:         缩小,还原当前窗口<br>F7:         单步步入<br>F8:         单步步过<br>F9:         直接运行程序,遇到断点处,程序暂停<br>ctrl+F2:    重新运行程序到起始处,一般用于重新调试程序<br>ctrl+F9:    执行到函数返回处,用于跳出函数实现<br> Ait+F2:    执行到用户代码处,用于快速跳出系统函数<br> ctrl+G:    输入十六进制地址,快速定位到该地址</p>
+
+          
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/2016/06/08/11/" itemprop="url">
                   2016年6月8日
                 </a>
@@ -1308,140 +1432,13 @@
 
 
     
-      
-
-  
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/2016/05/18/lp01/" itemprop="url">
-                  老婆萌萌哒语录
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            <span class="post-meta-item-icon">
-              <i class="fa fa-calendar-o"></i>
-            </span>
-            <span class="post-meta-item-text">发表于</span>
-            <time itemprop="dateCreated" datetime="2016-05-18T12:48:54+08:00" content="2016-05-18">
-              2016-05-18
-            </time>
-          </span>
-
-          
-            <span class="post-category" >
-              &nbsp; | &nbsp;
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-              
-                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/categories/宝贝/" itemprop="url" rel="index">
-                    <span itemprop="name">宝贝</span>
-                  </a>
-                </span>
-
-                
-                
-
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                &nbsp; | &nbsp;
-                <a href="/2016/05/18/lp01/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/05/18/lp01/" itemprop="commentsCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-
-          
-          
-             <span id="/2016/05/18/lp01/" class="leancloud_visitors" data-flag-title="老婆萌萌哒语录">
-               &nbsp; | &nbsp;
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               <span class="post-meta-item-text">阅读次数 </span>
-               <span class="leancloud-visitors-count"></span>
-              </span>
-          
-
-          
-        </div>
-      </header>
-    
-
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <p>老婆萌萌哒^_^  14:56:59<br>有个要饭的！<br>在我边上吃完了一只番茄！<br>然后拿着他的碗！<br>跟我说。投个币吧<br>
-          <div class="post-more-link text-center">
-            <a class="btn" href="/2016/05/18/lp01/#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-        
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <div>
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
   </section>
 
   
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right"></i></a>
+  </nav>
+
 
 
           </div>
@@ -1480,7 +1477,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">10</span>
+              <span class="site-state-item-count">11</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
